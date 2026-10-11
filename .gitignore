@@ -1,0 +1,6 @@
+# Instaladores generados por build.ps1
+dist/
+
+# Archivos que genera la skin en tiempo de ejecución
+milaneson/@Resources/Cover.png
+milaneson/@Resources/probe.txt
